@@ -14,5 +14,5 @@ skills:
 - EDM Wire Cutting
 - Sheet Metal Manufacturing
 - MIG Welding
-main-image: /render.PNG
+main-image: /sugarcane-juice.PNG
 ---

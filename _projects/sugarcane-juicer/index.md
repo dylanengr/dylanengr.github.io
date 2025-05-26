@@ -16,3 +16,5 @@ skills:
 - MIG Welding
 main-image: /sugarcane-juice.PNG
 ---
+
+{% include image-gallery.html images="render.PNG" height="400" %} 

@@ -48,4 +48,4 @@ complete manufacturing of a prototype with testing, among other factors.
 {% include image-gallery.html images="final_machine.jpg" height="400" %}
 
 ## Complete Project
-[The Design of a Manual Sugarcane Juicing Machine](https://drive.google.com/file/d/1yJqB3x2qNVBIIWLTKChCK3NI_h32Q1c8/view)
+<a href="https://drive.google.com/file/d/1yJqB3x2qNVBIIWLTKChCK3NI_h32Q1c8/view" target="_blank">The Design of a Manual Sugarcane Juicing Machine</a>

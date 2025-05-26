@@ -10,12 +10,12 @@
 title: Dylan Ryan's Portfolio # This is what shows up in the tab of the browser
 
 
-
 # Hero Section
 name: Dylan Ryan
-headline: Mechanical Engineer
+headline: Mechanical Engineer | Design & Manufacturing
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Dylan is a mechanical engineer with experience in both design and manufacturing, he brings a unique perspective to problem-solving in the automotive and motorsports industry. Based in Los Angeles, Dylan is always looking for creative solutions to complex challenges.
+  Mechanical engineer with a strong foundation in design and manufacturing through hands-on problem-solving. Pursuing an MSME at UCLA to execute practical solutions with analytical rigor. Passionate about the automotive and motorsports industries, turning concepts into reliable solutions.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -23,15 +23,15 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: https://drive.google.com/file/d/11laeWfQwvH_ndrLCOyV0l7ymaRuepDFg/view?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: https://www.linkedin.com/in/dylanengr/    # https://www.linkedin.com/in/{your url slug} 
+  github:     # https://github.com/{your url slug} 
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 

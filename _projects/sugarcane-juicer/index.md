@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sugarcane Juicing Machine
-description:  Developed a manually powered sugarcane juicer to subject a section of sugarcane
-through a completely mechanical process such that juice is extracted and accumulated.
+description: Developed a manually powered sugarcane juicer to subject a section of sugarcane
+  through a completely mechanical process such that juice is extracted and accumulated.
 skills: 
 - Machine Design
 - Project Management

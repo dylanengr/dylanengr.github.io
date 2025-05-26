@@ -14,5 +14,5 @@ skills:
 - EDM Wire Cutting
 - Sheet Metal Manufacturing
 - MIG Welding
-main-image: /render.png
+main-image: /render.PNG
 ---

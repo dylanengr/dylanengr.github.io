@@ -14,7 +14,7 @@ main-image: /coil.PNG
 {% include image-gallery.html images="https://afepower.com/media/catalog/product/1/0/101-5600-20_1_2.jpg, https://afepower.com/media/catalog/product/1/0/101-5600-20_ls1.jpg" height="400"%}
 <span style="font-size: 10px">"Sway-A-Way 2.5 Front Coilover Kit" from https://afepower.com/afe-power-101-5600-20-sway-a-way-2-5-front-coilover-kit</span>
 
-## Design Process
+## Involvement
 1. Determined desired ride height to level truck.
 2. Measured unsprung weight at front wheels.
 3. Considered movement of control arms, tie rod, and other suspension components to determine design envelope.

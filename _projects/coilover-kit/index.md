@@ -8,7 +8,7 @@ skills:
   - Prototype and Testing
   - Hand Calculations
   - Clearance Verification
-main-image: /coil.PNG
+main-image: /coils.PNG
 ---
 
 {% include image-gallery.html images="https://afepower.com/media/catalog/product/1/0/101-5600-20_1_2.jpg, https://afepower.com/media/catalog/product/1/0/101-5600-20_ls1.jpg" height="400"%}

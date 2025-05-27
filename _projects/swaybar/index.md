@@ -12,7 +12,7 @@ main-image: /GTI.jpg
 ---
 
 {% include image-gallery.html images="https://afepower.com/media/catalog/product/4/4/440-611001fl_1.jpg, https://afepower.com/media/catalog/product/4/4/440-611001fl_ls1.jpg" height="400"%}
-<span style="font-size: 10px">"aFe CONTROL Front Sway Bar" from https://afepower.com/afe-power-101-5600-20-sway-a-way-2-5-front-coilover-kit</span>
+<span style="font-size: 10px">"aFe CONTROL Front Sway Bar" from https://afepower.com/afe-power-440-611001fl-afe-control-front-sway-bar</span>
 
 ## Involvement
 1. Scanned existing swaybar with ROMER arm.

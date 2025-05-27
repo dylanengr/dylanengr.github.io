@@ -8,7 +8,7 @@ skills:
   - Prototype and Testing
   - Hand Calculations
   - Clearance Verification
-main-image: /coil.PNG
+main-image: /GTI.jpg
 ---
 
 {% include image-gallery.html images="https://afepower.com/media/catalog/product/4/4/440-611001fl_1.jpg, https://afepower.com/media/catalog/product/4/4/440-611001fl_ls1.jpg" height="400"%}

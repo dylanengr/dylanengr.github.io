@@ -8,5 +8,11 @@ skills:
   - SOLIDWORKS
   - Prototype and Testing
   - Clearance Verification
-main-image: /coil.PNG
+main-image: /GWagon.jpg
 ---
+
+{% include image-gallery.html images="3DP.jpg" height="400" %}
+3D printing is used extensively to prototype and verify design clearances prior to approving designs and continuing to production runs of the component.
+
+{% include image-gallery.html images="68RFE.PNG" height="400" %}
+Heat exchange fins are located on the outside of the pan, parallel in direction with the air flow underneath the vehicle to maximize surface area and assist in heat dissipation from the transmission fluid to the outside environment.
